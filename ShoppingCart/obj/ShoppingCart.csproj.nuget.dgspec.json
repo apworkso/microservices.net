@@ -1,0 +1,113 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Downloads\\Books\\Technical\\Microservices\\microservices-in-dotnet-book-second-edition-main\\Chapter12\\ShoppingCart\\ShoppingCart.csproj": {}
+  },
+  "projects": {
+    "E:\\Downloads\\Books\\Technical\\Microservices\\microservices-in-dotnet-book-second-edition-main\\Chapter12\\ShoppingCart\\ShoppingCart.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Downloads\\Books\\Technical\\Microservices\\microservices-in-dotnet-book-second-edition-main\\Chapter12\\ShoppingCart\\ShoppingCart.csproj",
+        "projectName": "ShoppingCart",
+        "projectPath": "E:\\Downloads\\Books\\Technical\\Microservices\\microservices-in-dotnet-book-second-edition-main\\Chapter12\\ShoppingCart\\ShoppingCart.csproj",
+        "packagesPath": "C:\\Users\\Atit\\.nuget\\packages\\",
+        "outputPath": "E:\\Downloads\\Books\\Technical\\Microservices\\microservices-in-dotnet-book-second-edition-main\\Chapter12\\ShoppingCart\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "E:\\Downloads\\Books\\Technical\\Microservices\\microservices-in-dotnet-book-second-edition-main\\Chapter12\\NuGet.Config",
+          "C:\\Users\\Atit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "E:\\Downloads\\Books\\Technical\\Microservices\\microservices-in-dotnet-book-second-edition-main\\Chapter11\\MicroserviceNET.Logging\\bin\\Release": {},
+          "E:\\Downloads\\Books\\Technical\\Microservices\\microservices-in-dotnet-book-second-edition-main\\Chapter11\\MicroserviceNET.Monitoring\\bin\\Release": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "EventStore.Client": {
+              "target": "Package",
+              "version": "[21.2.0, )"
+            },
+            "Microsoft.Extensions.Http.Polly": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[7.2.1, )"
+            },
+            "Scrutor": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

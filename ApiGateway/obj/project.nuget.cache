@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "dgSpecHash": "pxU9l3OpT3udPx2X+t42OxZpJYhYYPKXIZkJuBTmbWu7e4UoL3hEdLjBH8yj1RW07ksYIm4dmozxb8BdRYXUkQ==",
+  "success": false,
+  "projectFilePath": "E:\\Downloads\\Books\\Technical\\Microservices\\microservices-in-dotnet-book-second-edition-main\\Chapter12\\ApiGateway\\ApiGateway.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Atit\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Atit\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Atit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Atit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'E:\\Downloads\\Books\\Technical\\Microservices\\microservices-in-dotnet-book-second-edition-main\\Chapter11\\MicroserviceNET.Logging\\bin\\Release' doesn't exist.",
+      "libraryId": "MicroserviceNET.Logging"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'E:\\Downloads\\Books\\Technical\\Microservices\\microservices-in-dotnet-book-second-edition-main\\Chapter11\\MicroserviceNET.Monitoring\\bin\\Release' doesn't exist.",
+      "libraryId": "MicroserviceNET.Logging"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'E:\\Downloads\\Books\\Technical\\Microservices\\microservices-in-dotnet-book-second-edition-main\\Chapter11\\MicroserviceNET.Logging\\bin\\Release' doesn't exist.",
+      "libraryId": "MicroserviceNET.Monitoring"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'E:\\Downloads\\Books\\Technical\\Microservices\\microservices-in-dotnet-book-second-edition-main\\Chapter11\\MicroserviceNET.Monitoring\\bin\\Release' doesn't exist.",
+      "libraryId": "MicroserviceNET.Monitoring"
+    }
+  ]
+}
